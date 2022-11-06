@@ -1,9 +1,9 @@
 :root {
-    --primary:#1E0E62;
-    --secondary:#15143966;
-    --tertiary:#482BE7;
-    --background:#FFF;
-    --background2:#F1F1F1;
+    --primary: #fff;
+    --secondary: #f1f1f1;
+    --tertiary:#00d9ff;
+    --background2: #343434;
+    --background: #141414;
     --button-border:#EBEAED;
     --icons:#9999a7;
     --contact-button:#25DAC5;
